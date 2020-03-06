@@ -1,0 +1,25 @@
+{
+  "name": "FE-EssayBook",
+  "version": "1.0.0",
+  "description": "基于vuepress的前端笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wohenxion/FE-EssayBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wohenxion/FE-EssayBook/issues"
+  },
+  "homepage": "https://github.com/wohenxion/FE-EssayBook#readme",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
